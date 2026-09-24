@@ -19,3 +19,8 @@ Nmap · Burp Suite · Linux
 </p>
 
 ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=N0eSec&theme=github-compact&hide_border=true)
+
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=N0eSec&theme=dark&hide_border=true" />
+</p>
