@@ -1,6 +1,11 @@
-<!-- Este archivo va en un repo que se llame EXACTAMENTE igual que tu usuario de GitHub -->
+<!-- Este archivo va en el repo N0eSec (con CERO, igual que tu usuario) -->
 
-# Hola, soy Noé 👋 — `z3r0day`
+<!-- BANNER: sube tu imagen al repo (ej. banner.png) y queda aquí arriba -->
+<p align="center">
+  <img src="banner.png" alt="Noe Sec" width="100%">
+</p>
+
+# Hola, soy Noé 👋 — `N0eSec`
 
 **Offensive Security | Web & API Pentesting | Bug Bounty Hunter**
 
@@ -24,13 +29,10 @@ Estudiante autodidacta de ciberseguridad enfocado en **control de acceso (IDOR/B
 
 **Plataformas:** HackerOne · Hack The Box · TryHackMe · PortSwigger Web Security Academy
 
-<!-- Badges opcionales (shields.io). Borra los que no uses. -->
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat&logo=burpsuite&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![HackTheBox](https://img.shields.io/badge/HackTheBox-111927?style=flat&logo=hackthebox&logoColor=9FEF00)
-![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=flat&logo=tryhackme&logoColor=white)
+<!-- Iconos estilo "cuadritos" (skillicons.dev). Agrega o quita nombres separados por coma. -->
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=kali,linux,bash,python,js,html,css,react,tailwind,git,github,graphql,obsidian,vscode" />
+</p>
 
 ---
 
@@ -58,5 +60,5 @@ Estudiante autodidacta de ciberseguridad enfocado en **control de acceso (IDOR/B
 
 [LinkedIn](https://linkedin.com/in/TU-USUARIO) · [YouTube](https://youtube.com/@TU-CANAL) · [HackerOne](https://hackerone.com/0xparcival) · tu-correo@ejemplo.com
 
-<!-- Estadísticas opcionales: cambia TU-USUARIO -->
-![Stats](https://github-readme-stats.vercel.app/api?username=TU-USUARIO&show_icons=true&theme=tokyonight&hide_border=true)
+<!-- Gráfica de contribuciones tipo "línea" como la del video -->
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=N0eSec&theme=github-compact&hide_border=true)
